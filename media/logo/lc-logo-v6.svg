@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 36">
+  <text x="0" y="28" font-family="Georgia,serif" font-size="30" fill="#D4AF37" letter-spacing="-1">LC</text>
+  <line x1="40" y1="4" x2="40" y2="32" stroke="#D4AF37" stroke-width="0.6" opacity="0.4"/>
+  <text x="48" y="22" font-family="Georgia,serif" font-size="18" fill="#D4AF37" letter-spacing="2">LATAM-CLUB</text>
+  <text x="48" y="32" font-family="Arial,sans-serif" font-size="4" fill="#D4AF37" letter-spacing="0.4" opacity="0.62">УНИКАЛЬНЫЕ ЭКСПЕДИЦИИ</text>
+</svg>
